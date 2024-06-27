@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atheer</h1>
 <h3 align="center">A passionate Mobile Applications Developer, Data analyst from KSA</h3>
-<img align=“right” alt+”coding” width=400 src=“￼￼￼
->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheeralbogami&label=Profile%20views&color=0e75b6&style=flat" alt="atheeralbogami" /> </p>
 
@@ -14,6 +12,8 @@
 - 📫 How to reach me **Atheer.albogami7@gmail.com**
 
 - ⚡ Fun fact **"I have a unique talent ,I can sleep for three straight days if given the chance! It's my superpower when it comes to catching up on rest.💤**
+
+ ![68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63323034363034312d613038662d343662642d383564312d3237666662653762343538352f64626f396872392d64316330616334612d363639622d346666](https://github.com/AtheerAlbogami/AtheerAlbogami/assets/106628159/ed31c6c5-9cd7-458a-91d3-2114fcbc15f4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
