@@ -1,9 +1,7 @@
-![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://github.com/AtheerAlbogami/AtheerAlbogami/assets/106628159/00356855-247c-428d-a4dc-c3febee8f6c2)
 <h1 align="center">Hi 👋, I'm Atheer</h1>
 <h3 align="center">A passionate Mobile Applications Developer, Data analyst from KSA</h3>
-<img align=“right” alt+”coding” width=400 src=“![image](https://github.com/AtheerAlbogami/AtheerAlbogami/assets/106628159/bf90e878-935b-4af6-b333-021658bc2c6c)
-”>
-
+<img align=“right” alt+”coding” width=400 src=“￼￼￼
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheeralbogami&label=Profile%20views&color=0e75b6&style=flat" alt="atheeralbogami" /> </p>
 
