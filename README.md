@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Atheer</h1>
-<h3 align="center">A passionate Mobile Applications Developer, Data analyst from KSA</h3>
+<h3 align="center">A passionate Mobile Applications Developer, Data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheeralbogami&label=Profile%20views&color=0e75b6&style=flat" alt="atheeralbogami" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Atheer.albogami7@gmail.com**
 
-- ⚡ Fun fact **"I have a unique talent ,I can sleep for three straight days if given the chance! It's my superpower when it comes to catching up on rest.💤**
+- ⚡ Fun fact "The moment people find out I study IT, I instantly become a ‘hacker’ in their eyes… even though I’m just learning the basics!"
 
 
 
